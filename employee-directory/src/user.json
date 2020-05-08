@@ -1,0 +1,44 @@
+[
+    {
+        "id": "0",
+        "firstname": "jack",
+        "lastname": "blinsmon",
+        "salary": "120,000",
+        "position": "Manager"
+    },
+    {
+        "id": "1",
+        "firstname": "brad",
+        "lastname": "steele",
+        "salary": "100,000",
+        "position": "Accountant"
+    },
+    {
+        "id": "2",
+        "firstname": "collin",
+        "lastname": "cordova",
+        "salary": "75,000",
+        "position": "Sales"
+    },
+    {
+        "id": "3",
+        "firstname": "anthony",
+        "lastname": "white",
+        "salary": "75,000",
+        "position": "Sales"
+    },
+    {
+        "id": 4,
+        "firstname": "jessica",
+        "lastname": "marony",
+        "salary": "75,000",
+        "position": "Sales"
+    },
+    {
+        "id": "5",
+        "firstname": "kady",
+        "lastname": "smith",
+        "salary": "80,000",
+        "position": "Human Resources"
+    }
+]
